@@ -1,0 +1,12 @@
+.title{
+    font-weight: 200;
+    color: red;
+}
+
+.list-head{
+    background-color: green;
+}
+
+.list-elem{
+    color:rgb(0, 0, 129);
+}
